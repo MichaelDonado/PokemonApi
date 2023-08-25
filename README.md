@@ -2,11 +2,11 @@
 
 ### Features
 
-- Listagem de Pokemons
-- Tela de Detalhes do Pokemon (Detalhes, Status, Evoluções)
+- List of Pokemons
+- Pantalla de detalles de Pokémon (detalles, estado, evoluciones)
 
 ### Dev Tools
-- App feito com gerência de estado utilizando MobX e com gerência de instancias utilizando a biblioteca GetIt.
+- Aplicación realizada con gestión de estado mediante MobX y gestión de instancias mediante la biblioteca GetIt.
 
 # Screenshots
 
